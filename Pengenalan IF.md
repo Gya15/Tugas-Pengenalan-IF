@@ -1,14 +1,23 @@
 ## 1.1 Latar Belakang
 
-bla bla bla
+Sekarang zamannya e commerce maka banyak orang memakai toko online untuk menjual dan membeli sesuatu, maka saya ingin mendigitalkan agar orang tidak perlu ke toko untuk membeli sesuatu. Cukup dengan dirumah saja.
 
 ## 1.2. Deksripsi Teknologi Informasi
 
-bla bla bla
+Website ini sangat sederhana, dimana pembeli dapat membeli makanan berupa roti, pastry, kue, dan lain-lain.
 
 ## 1.3. Branding
 
-bla bla bla
+Merk : Cita Sari
+Tagline : pembelian mudah untuk makanan
+Campaign : bagaimana agar orang mudah membeli makanan tanpa harus keluar rumah
+Target user :
+Seseorang yang ingin makanan ringan
+Seseorang yang butuh makanan untuk sebuah acara / kegiatan
+User experience :
+Mudah 
+Sederhana
+
 
 ## 2. User Story
 
@@ -18,12 +27,26 @@ bla | bla | bla | ⭐⭐⭐⭐⭐
 
 ## 3. Struktur Data
 
-Cara membuat aneka macam bentuk grafik menggunakan mermaid.js bisa lihat di [https://mermaid.js.org/syntax/entityRelationshipDiagram.html](https://mermaid.js.org/syntax/entityRelationshipDiagram.html) 
-
 ```mermaid
 erDiagram
-    RUJAK ||--o{ SAYUR : tersusun
-    PEMBELI ||--|{ RUJAK : beli
+  PEMBELI {
+    string username
+    string email
+    string password
+    string nama_lengkap
+  }
+ PEMBELI ||--O{ PESANAN:MEMBUAT
+ PESANAN ||--O{ ADMIN:MENERUSKAN_PESANAN
+ PESANAN {
+    string nama_pemesan
+    string nama_barang
+    int id_jumlah_barang_yang_dipesan
+    int id_alamat_pengguna
+    int id_pembayaran
+    datetime waktu_pemesanan
+    datetime waktu_dikirim
+
+ }
 ```
 
 ## 4. Arsitektur Sistem
