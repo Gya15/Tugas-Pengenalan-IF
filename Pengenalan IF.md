@@ -59,8 +59,7 @@ bla bla bla
 
 ## 6. Desain User Experience dan User Interface
 
-Bisa load image 
-![Contoh](https://fastly.picsum.photos/id/318/536/354.jpg?hmac=Ixy-wle80nudIR_cmnF1iY2y6rMUH7_9sk-BP1fTpM8)
+https://www.figma.com/file/NhKE5dOSKAlfVYIb1P2k2Z/Figma-basics?type=design&node-id=1669%3A162202&mode=design&t=7olGBrC8d37R33Gi-1
 
 ## 7. Demonstrasi Video
 
