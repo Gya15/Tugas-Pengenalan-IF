@@ -63,6 +63,7 @@ bla bla bla
 ## 6. Desain User Experience dan User Interface
 
 https://www.figma.com/file/NhKE5dOSKAlfVYIb1P2k2Z/Figma-basics?type=design&node-id=1669%3A162202&mode=design&t=7olGBrC8d37R33Gi-1
+https://www.figma.com/file/NhKE5dOSKAlfVYIb1P2k2Z/Figma-basics?type=design&node-id=1669-162202&mode=design
 
 ## 7. Demonstrasi Video
 
