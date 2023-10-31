@@ -1,10 +1,10 @@
 ## 1.1 Latar Belakang
 
-Sekarang zamannya e commerce maka banyak orang memakai toko online untuk menjual dan membeli sesuatu, maka saya ingin mendigitalkan agar orang tidak perlu ke toko untuk membeli sesuatu. Cukup dengan dirumah saja.
+Karena sekarang zamannya e commerce maka banyak orang memakai toko online untuk menjual dan membeli sesuatu, maka saya ingin mendigitalkan toko saya agar orang tidak perlu ke toko untuk membeli sesuatu, cukup dengan dirumah saja dan menekan tanda beli, maka pesanan akan dikirim ke rumah pembeli.
 
 ## 1.2. Deksripsi Teknologi Informasi
 
-Website ini sangat sederhana, dimana pembeli dapat membeli makanan berupa roti, pastry, kue, dan lain-lain.
+Website ini sangat sederhana, dimana pembeli dapat membeli makanan berupa roti, pastry, kue, dan lain-lain. Bisa juga memesan dalam jumlah banyak untuk keperluan acara ataupun kegiatan. Tidak perlu repot, cukup menekan tanda beli atau pesan, maka pesanan akan dikirim ke rumah pembeli atau ke tempat acara.
 
 ## 1.3. Branding
 
@@ -12,11 +12,14 @@ Merk : Cita Sari
 Tagline : pembelian mudah untuk makanan
 Campaign : bagaimana agar orang mudah membeli makanan tanpa harus keluar rumah
 Target user :
-Seseorang yang ingin makanan ringan
+Seseorang yang ingin makanan ringan dengan cepat
 Seseorang yang butuh makanan untuk sebuah acara / kegiatan
+seseorang yang memiliki waktu sedikit
 User experience :
 Mudah 
 Sederhana
+cepat
+murah
 
 
 ## 2. User Story
