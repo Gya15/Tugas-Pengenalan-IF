@@ -24,9 +24,9 @@ murah
 
 ## 2. User Story
 
-bla | bla | bla | bla
+Sebagai | Saya Ingin bisa | bla | Prioritas
 ---|---|---|---
-bla | bla | bla | ⭐⭐⭐⭐⭐
+Pengguna | membeli makanan | bla | ⭐⭐⭐⭐⭐
 
 ## 3. Struktur Data
 
